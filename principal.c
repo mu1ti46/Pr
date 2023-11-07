@@ -21,7 +21,7 @@ int main(){
 	switch(z){
 		case 1:
 			w = sumar(x, y);
-			printf("Resultado es: %d", w);
+			printf("Resultado es %d", w);
 			break;
 		case 2:
 			w = restar(x, y);
