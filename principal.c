@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include "funciones.h"
 
+
+
 int main(){
 	int x, y, z, w;
 
